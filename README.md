@@ -1,2 +1,3 @@
 # doglife_flutter
- video aula de criação de template no flutter
+ 
+ #### Estudando sobre criação de template no Flutter, vídeo aulas do [balta.io](https://www.youtube.com/c/baltaio/featured)
